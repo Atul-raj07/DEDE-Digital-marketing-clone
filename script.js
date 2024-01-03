@@ -1,4 +1,3 @@
-let imgboxes = document.querySelectorAll(".imgbox");
-let imgdiv = document.querySelectorAll(".imgdiv")
-
+let offerbox = document.querySelectorAll(".offerbox");
+let offerimg = document.querySelectorAll(".offerimg");
 
